@@ -1,0 +1,146 @@
+Numero frasi testo_biden.txt     219
+Numero frasi testo_trump.txt     351
+
+testo_trump.txt ha più frasi
+
+Numero tokens testo_biden.txt    5330
+Numero tokens testo_trump.txt    5089
+
+testo_biden.txt ha più tokens
+
+lunghezza media frasi in termini di token testo_biden.txt        0.04108818011257036
+lunghezza media frasi in termini di token testo_trump.txt        0.06897229318137159
+lunghezza media parole in termini di caratteri testo_biden.txt   0.2433234421364985
+lunghezza media parole in termini di caratteri testo_trump.txt   0.28291082944185014
+
+Grandezza vocabolario testo_biden.txt    1257
+Grandezza vocabolario testo_trump.txt    1015
+
+testo_biden.txt ha un vocabolario più grande
+
+TTR testo_biden.txt      0.2514
+TTR testo_trump.txt      0.203
+
+testo_biden.txt ha una ricchezza lessicale più grande
+
+distribuzione delle classi di frequenza di testo_biden.txt
+0 - 5330
+distribuzione di frequenza di v1         167
+distribuzione di frequenza di v5         3
+distribuzione di frequenza di v10        1
+
+500 - 5330
+distribuzione di frequenza di v1         282
+distribuzione di frequenza di v5         7
+distribuzione di frequenza di v10        2
+
+1000 - 5330
+distribuzione di frequenza di v1         358
+distribuzione di frequenza di v5         11
+distribuzione di frequenza di v10        4
+
+1500 - 5330
+distribuzione di frequenza di v1         440
+distribuzione di frequenza di v5         17
+distribuzione di frequenza di v10        5
+
+2000 - 5330
+distribuzione di frequenza di v1         516
+distribuzione di frequenza di v5         19
+distribuzione di frequenza di v10        3
+
+2500 - 5330
+distribuzione di frequenza di v1         562
+distribuzione di frequenza di v5         17
+distribuzione di frequenza di v10        3
+
+3000 - 5330
+distribuzione di frequenza di v1         610
+distribuzione di frequenza di v5         15
+distribuzione di frequenza di v10        9
+
+3500 - 5330
+distribuzione di frequenza di v1         640
+distribuzione di frequenza di v5         21
+distribuzione di frequenza di v10        7
+
+4000 - 5330
+distribuzione di frequenza di v1         688
+distribuzione di frequenza di v5         26
+distribuzione di frequenza di v10        11
+
+4500 - 5330
+distribuzione di frequenza di v1         727
+distribuzione di frequenza di v5         29
+distribuzione di frequenza di v10        8
+
+5000 - 5330
+distribuzione di frequenza di v1         756
+distribuzione di frequenza di v5         33
+distribuzione di frequenza di v10        7
+
+
+distribuzione delle classi di frequenza di testo_trump.txt
+0 - 5089
+distribuzione di frequenza di v1         176
+distribuzione di frequenza di v5         5
+distribuzione di frequenza di v10        0
+
+500 - 5089
+distribuzione di frequenza di v1         219
+distribuzione di frequenza di v5         8
+distribuzione di frequenza di v10        3
+
+1000 - 5089
+distribuzione di frequenza di v1         262
+distribuzione di frequenza di v5         8
+distribuzione di frequenza di v10        3
+
+1500 - 5089
+distribuzione di frequenza di v1         321
+distribuzione di frequenza di v5         15
+distribuzione di frequenza di v10        5
+
+2000 - 5089
+distribuzione di frequenza di v1         361
+distribuzione di frequenza di v5         21
+distribuzione di frequenza di v10        4
+
+2500 - 5089
+distribuzione di frequenza di v1         379
+distribuzione di frequenza di v5         18
+distribuzione di frequenza di v10        5
+
+3000 - 5089
+distribuzione di frequenza di v1         404
+distribuzione di frequenza di v5         24
+distribuzione di frequenza di v10        4
+
+3500 - 5089
+distribuzione di frequenza di v1         461
+distribuzione di frequenza di v5         25
+distribuzione di frequenza di v10        6
+
+4000 - 5089
+distribuzione di frequenza di v1         500
+distribuzione di frequenza di v5         31
+distribuzione di frequenza di v10        5
+
+4500 - 5089
+distribuzione di frequenza di v1         533
+distribuzione di frequenza di v5         31
+distribuzione di frequenza di v10        6
+
+5000 - 5089
+distribuzione di frequenza di v1         533
+distribuzione di frequenza di v5         30
+distribuzione di frequenza di v10        7
+
+
+media di Sostantivi per frase testo_biden.txt    5.858447488584475
+media di Sostantivi per frase testo_trump.txt    2.7321937321937324
+media di verbi per frase testo_biden.txt         3.8127853881278537
+media di verbi per frase testo_trump.txt         2.780626780626781
+
+densità lessicale testo_biden.txt        0.5780477759472817
+densità lessicale testo_trump.txt        0.5905829596412556

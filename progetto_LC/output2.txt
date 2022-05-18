@@ -1,0 +1,187 @@
+le 10 POS più frequenti di testo_biden.txt
+[((',', ','), 254), (('the', 'DT'), 235), (('.', '.'), 218), (('and', 'CC'), 173), (('to', 'TO'), 168), (('of', 'IN'), 104), (('I', 'PRP'), 97), (('a', 'DT'), 78), (('in', 'IN'), 69), (('for', 'IN'), 64)]
+
+i 20 sostantivi più frequenti di testo_biden.txt
+[(('’', 'NNP'), 21), (('Austin', 'NNP'), 19), (('people', 'NNS'), 14), (('years', 'NNS'), 13), (('families', 'NNS'), 13), (('nation', 'NN'), 12), (('time', 'NN'), 12), (('America', 'NNP'), 12), (('General', 'NNP'), 11), (('crisis', 'NN'), 10), (('s', 'NN'), 10), (('leadership', 'NN'), 9), (('United', 'NNP'), 9), (('security', 'NN'), 9), (('Defense', 'NNP'), 9), (('way', 'NN'), 8), (('veterans', 'NNS'), 8), (('government', 'NN'), 8), (('States', 'NNPS'), 8), (('Department', 'NNP'), 8)]
+
+i 20 verbi più frequenti di testo_biden.txt
+[(('’', 'VBP'), 44), (('’', 'VBZ'), 30), (('was', 'VBD'), 29), (('are', 'VBP'), 24), (('be', 'VB'), 21), (('is', 'VBZ'), 18), (('have', 'VBP'), 18), (('need', 'VBP'), 15), (('know', 'VBP'), 13), (('get', 'VB'), 13), (('going', 'VBG'), 13), (('has', 'VBZ'), 12), (('help', 'VB'), 11), (('’', 'VBD'), 11), (('build', 'VB'), 10), (('knows', 'VBZ'), 10), (('do', 'VB'), 8), (('think', 'VBP'), 8), (('s', 'VBD'), 7), (('make', 'VB'), 7)]
+
+i 20 bigrammi composti da un Sostantivo seguito da un Verbo più frequenti di testo_biden.txt
+[(('’', 's'), 62), (('’', 're'), 11), (('’', 'll'), 11), (('don', '’'), 4), (('nation', '’'), 4), (('ve', 'known'), 3), (('s', 'going'), 3), (('ve', 'seen'), 3), (('America', '’'), 3), (('ll', 'be'), 3), (('job', 'done'), 2), (('m', 'asking'), 2), (('re', 'going'), 2), (('m', 'honored'), 2), (('Austin', 'was'), 2), (('didn', '’'), 2), (('t', 'have'), 2), (('week', 'marked'), 1), (('CDC', 'said'), 1), (('crisis', 'right'), 1)]
+
+i 20 bigrammi composti da un Aggettivo seguito da un Sostantivo più frequenti di testo_biden.txt
+[(('’', 's'), 62), (('’', 't'), 14), (('’', 've'), 13), (('’', 're'), 11), (('’', 'll'), 11), (('’', 'm'), 11), (('American', 'people'), 5), (('foreign', 'policy'), 5), (('rural', 'America'), 4), (('national', 'security'), 4), (('single', 'day'), 3), (('small', 'towns'), 3), (('long', 'time'), 3), (('public', 'servant'), 3), (('presidential', 'leadership'), 2), (('political', 'influence'), 2), (('Native', 'American'), 2), (('deep', 'experience'), 2), (('great', 'recession'), 2), (('rural', 'communities'), 2)]
+
+le 10 POS più frequenti di testo_trump.txt
+[(('.', '.'), 323), ((',', ','), 273), (('the', 'DT'), 137), (('to', 'TO'), 114), (('I', 'PRP'), 101), (('and', 'CC'), 98), (('a', 'DT'), 93), (('you', 'PRP'), 79), (('it', 'PRP'), 74), (('’', 'VBP'), 68)]
+
+i 20 sostantivi più frequenti di testo_trump.txt
+[(('’', 'NNP'), 32), (('t', 'NN'), 29), (('years', 'NNS'), 18), (('Thank', 'NNP'), 17), (('people', 'NNS'), 16), (('election', 'NN'), 11), (('thing', 'NN'), 11), (('vote', 'NN'), 9), (('s', 'NN'), 9), (('“', 'NNP'), 9), (('”', 'NN'), 8), (('Wisconsin', 'NNP'), 8), (('day', 'NN'), 7), (('country', 'NN'), 7), (('lot', 'NN'), 7), (('Carolina', 'NNP'), 7), (('”', 'NNP'), 7), (('world', 'NN'), 7), (('Biden', 'NNP'), 7), (('months', 'NNS'), 6)]
+
+i 20 verbi più frequenti di testo_trump.txt
+[(('’', 'VBP'), 68), (('’', 'VBZ'), 47), (('have', 'VBP'), 38), (('is', 'VBZ'), 38), (('was', 'VBD'), 34), (('going', 'VBG'), 28), (('are', 'VBP'), 27), (('be', 'VB'), 25), (('been', 'VBN'), 20), (('had', 'VBD'), 19), (('got', 'VBD'), 14), (('want', 'VBP'), 13), (('were', 'VBD'), 12), (('did', 'VBD'), 12), (('know', 'VBP'), 12), (('s', 'VBD'), 12), (('win', 'VB'), 11), (('don', 'VBP'), 10), (('has', 'VBZ'), 10), (('s', 'VBZ'), 10)]
+
+i 20 bigrammi composti da un Sostantivo seguito da un Verbo più frequenti di testo_trump.txt
+[(('’', 's'), 80), (('’', 't'), 39), (('’', 're'), 27), (('don', '’'), 14), (('ve', 'been'), 6), (('t', 'have'), 5), (('Let', '’'), 5), (('products', 'are'), 3), (('s', 'going'), 3), (('t', 'be'), 3), (('wasn', '’'), 3), (('Biden', 'is'), 3), (('ve', 'had'), 3), (('s', 'see'), 3), (('ve', 'done'), 3), (('t', 'given'), 3), (('t', 'need'), 2), (('ballot', 'is'), 2), (('t', 'know'), 2), (('Nobody', 'thought'), 2)]
+
+i 20 bigrammi composti da un Aggettivo seguito da un Sostantivo più frequenti di testo_trump.txt
+[(('’', 's'), 80), (('’', 't'), 39), (('’', 've'), 21), (('’', 'll'), 10), (('second', 'amendment'), 5), (('more', 'years'), 4), (('half', 'years'), 4), (('religious', 'liberty'), 3), (('more', 'products'), 3), (('s', 'see'), 3), (('long', 'period'), 3), (('federal', 'judges'), 3), (('t', 'need'), 2), (('big', 'day'), 2), (('bad', 'job'), 2), (('Next', 'year'), 2), (('good', 'job'), 2), (('corrupt', 'politician'), 2), (('“', 'Sir'), 2), (('whole', 'thing'), 2)]
+
+testo_biden.txt
+probabilità congiunta del bigramma ('’', 's')    0.016012396694214875
+probabilità congiunta del bigramma ('.', 'He')   0.008006198347107439
+probabilità congiunta del bigramma ('.', 'I')    0.006973140495867769
+probabilità congiunta del bigramma ('.', 'And')          0.006456611570247934
+probabilità congiunta del bigramma (',', ',')    0.006198347107438017
+probabilità congiunta del bigramma ('I', '’')    0.006198347107438017
+probabilità congiunta del bigramma ('the', 'of')         0.005940082644628099
+probabilità congiunta del bigramma ('of', 'the')         0.005940082644628099
+probabilità congiunta del bigramma (',', 'and')          0.005681818181818182
+probabilità congiunta del bigramma ('to', 'the')         0.0046487603305785125
+probabilità congiunta del bigramma (',', 'I')    0.004132231404958678
+probabilità congiunta del bigramma (',', 'to')   0.0038739669421487604
+probabilità congiunta del bigramma ('in', 'the')         0.00387396694214876
+probabilità congiunta del bigramma ('the', 'and')        0.00387396694214876
+probabilità congiunta del bigramma ('’', 't')    0.0036157024793388426
+probabilità congiunta del bigramma ('’', 've')   0.0033574380165289253
+probabilità congiunta del bigramma ('and', 'the')        0.0033574380165289257
+probabilità congiunta del bigramma ('the', 'first')      0.0033574380165289253
+probabilità congiunta del bigramma (',', 'the')          0.0030991735537190084
+probabilità congiunta del bigramma ('the', 'to')         0.003099173553719008
+
+probabilità condizionata del bigramma ('’', 's')         0.496
+probabilità condizionata del bigramma ('.', 'He')        0.14220183486238533
+probabilità condizionata del bigramma ('.', 'I')         0.12385321100917432
+probabilità condizionata del bigramma ('.', 'And')       0.11467889908256881
+probabilità condizionata del bigramma (',', ',')         0.09448818897637795
+probabilità condizionata del bigramma ('I', '’')         0.24742268041237114
+probabilità condizionata del bigramma ('the', 'of')      0.09787234042553192
+probabilità condizionata del bigramma ('of', 'the')      0.22115384615384615
+probabilità condizionata del bigramma (',', 'and')       0.08661417322834646
+probabilità condizionata del bigramma ('to', 'the')      0.10714285714285714
+probabilità condizionata del bigramma (',', 'I')         0.06299212598425197
+probabilità condizionata del bigramma (',', 'to')        0.05905511811023622
+probabilità condizionata del bigramma ('in', 'the')      0.21739130434782608
+probabilità condizionata del bigramma ('the', 'and')     0.06382978723404255
+probabilità condizionata del bigramma ('’', 't')         0.112
+probabilità condizionata del bigramma ('’', 've')        0.104
+probabilità condizionata del bigramma ('and', 'the')     0.07514450867052024
+probabilità condizionata del bigramma ('the', 'first')   0.05531914893617021
+probabilità condizionata del bigramma (',', 'the')       0.047244094488188976
+probabilità condizionata del bigramma ('the', 'to')      0.05106382978723404
+
+LMI del bigramma ('’', 's')      307.09089506197546
+LMI del bigramma ('.', 'He')     125.8749142093088
+LMI del bigramma ('.', 'I')      62.252646456798246
+LMI del bigramma ('.', 'And')    103.7669728124417
+LMI del bigramma (',', ',')      12.634952746834053
+LMI del bigramma ('I', '’')      70.51508666751687
+LMI del bigramma ('the', 'of')   42.905776158386864
+LMI del bigramma ('of', 'the')   42.905776158386864
+LMI del bigramma (',', 'and')    21.00960271306603
+LMI del bigramma ('to', 'the')   14.759169648716647
+LMI del bigramma (',', 'I')      21.284251333044818
+LMI del bigramma (',', 'to')     6.671275849982801
+LMI del bigramma ('in', 'the')   27.610686443099162
+LMI del bigramma ('the', 'and')          7.719129880220829
+LMI del bigramma ('’', 't')      69.3431053365751
+LMI del bigramma ('’', 've')     64.3900263839626
+LMI del bigramma ('and', 'the')          4.006051155781512
+LMI del bigramma ('the', 'first')        46.447193096308865
+LMI del bigramma (',', 'the')    -4.336510744096981
+LMI del bigramma ('the', 'to')   2.819896423823888
+
+testo_trump.txt
+probabilità congiunta del bigramma ('’', 's')    0.020320040640081277
+probabilità congiunta del bigramma ('.', 'We')   0.010668021336042673
+probabilità congiunta del bigramma ('’', 't')    0.009906019812039623
+probabilità congiunta del bigramma ('.', 'I')    0.008382016764033528
+probabilità congiunta del bigramma ('.', 'And')          0.008382016764033528
+probabilità congiunta del bigramma ('’', 're')   0.006858013716027431
+probabilità congiunta del bigramma ('going', 'to')       0.006604013208026417
+probabilità congiunta del bigramma ('I', '’')    0.006096012192024384
+probabilità congiunta del bigramma ('we', '’')   0.006096012192024384
+probabilità congiunta del bigramma ('’', 've')   0.0053340106680213354
+probabilità congiunta del bigramma (',', 'and')          0.005334010668021336
+probabilità congiunta del bigramma ('.', 'They')         0.005334010668021336
+probabilità congiunta del bigramma ('.', 'It')   0.004572009144018288
+probabilità congiunta del bigramma ('Thank', 'you')      0.004318008636017272
+probabilità congiunta del bigramma ('the', '.')          0.004318008636017273
+probabilità congiunta del bigramma ('it', '.')   0.004318008636017273
+probabilità congiunta del bigramma (',', 'but')          0.004318008636017272
+probabilità congiunta del bigramma ('.', 'This')         0.0040640081280162565
+probabilità congiunta del bigramma ('to', 'the')         0.004064008128016256
+probabilità congiunta del bigramma ('to', 'be')          0.004064008128016256
+
+probabilità condizionata del bigramma ('’', 's')         0.42328042328042326
+probabilità condizionata del bigramma ('.', 'We')        0.13003095975232198
+probabilità condizionata del bigramma ('’', 't')         0.20634920634920634
+probabilità condizionata del bigramma ('.', 'I')         0.1021671826625387
+probabilità condizionata del bigramma ('.', 'And')       0.1021671826625387
+probabilità condizionata del bigramma ('’', 're')        0.14285714285714285
+probabilità condizionata del bigramma ('going', 'to')    0.9285714285714286
+probabilità condizionata del bigramma ('I', '’')         0.2376237623762376
+probabilità condizionata del bigramma ('we', '’')        0.35294117647058826
+probabilità condizionata del bigramma ('’', 've')        0.1111111111111111
+probabilità condizionata del bigramma (',', 'and')       0.07692307692307693
+probabilità condizionata del bigramma ('.', 'They')      0.06501547987616099
+probabilità condizionata del bigramma ('.', 'It')        0.05572755417956656
+probabilità condizionata del bigramma ('Thank', 'you')   1.0
+probabilità condizionata del bigramma ('the', '.')       0.12408759124087591
+probabilità condizionata del bigramma ('it', '.')        0.22972972972972974
+probabilità condizionata del bigramma (',', 'but')       0.06227106227106227
+probabilità condizionata del bigramma ('.', 'This')      0.04953560371517028
+probabilità condizionata del bigramma ('to', 'the')      0.14035087719298245
+probabilità condizionata del bigramma ('to', 'be')       0.14035087719298245
+
+LMI del bigramma ('’', 's')      350.4510858350375
+LMI del bigramma ('.', 'We')     148.69581075747635
+LMI del bigramma ('’', 't')      170.84490434458075
+LMI del bigramma ('.', 'I')      65.79121820936857
+LMI del bigramma ('.', 'And')    109.88857000889485
+LMI del bigramma ('’', 're')     118.27724146932515
+LMI del bigramma ('going', 'to')         130.07997025602248
+LMI del bigramma ('I', '’')      55.37735018177592
+LMI del bigramma ('we', '’')     69.07531757781085
+LMI del bigramma ('’', 've')     91.99341003169734
+LMI del bigramma (',', 'and')    34.182360132957555
+LMI del bigramma ('.', 'They')   73.00116829292413
+LMI del bigramma ('.', 'It')     63.530786348349174
+LMI del bigramma ('Thank', 'you')        95.86470423269294
+LMI del bigramma ('the', '.')    10.147663812833795
+LMI del bigramma ('it', '.')     25.2535020074706
+LMI del bigramma (',', 'but')    60.26957767008305
+LMI del bigramma ('.', 'This')   55.00105025636486
+LMI del bigramma ('to', 'the')   32.19134240054036
+LMI del bigramma ('to', 'be')    71.4581566915132
+
+markov1 di testo_biden.txt
+probabilitaMAX frase con lunghezza 8     0.00012544422830678878
+probabilitaMAX frase con lunghezza 9     1.1419707125623173e-06
+probabilitaMAX frase con lunghezza 10    0.00025088845661357757
+probabilitaMAX frase con lunghezza 11    0.00012544422830678878
+probabilitaMAX frase con lunghezza 12    0.00012544422830678878
+probabilitaMAX frase con lunghezza 13    1.753534833969477e-05
+probabilitaMAX frase con lunghezza 14    2.0907371384464802e-05
+
+markov1 di testo_trump.txt
+probabilitaMAX frase con lunghezza 8     0.00032802413696323324
+probabilitaMAX frase con lunghezza 9     0.00032802413696323324
+probabilitaMAX frase con lunghezza 10    5.362688056852064e-05
+probabilitaMAX frase con lunghezza 11    6.338534642101598e-05
+probabilitaMAX frase con lunghezza 12    3.0400565450517383e-05
+probabilitaMAX frase con lunghezza 13    7.455094021891665e-05
+probabilitaMAX frase con lunghezza 14    0.00032802413696323324
+
+i 15 nomi propri di persona più frequenti di testo_biden.txt
+[(' Austin', 6), (' Dennis', 5), (' Lloyd Austin', 5), (' Obama', 4), (' Tom', 3), (' Black', 2), (' Native American', 2), (' Harris', 2), (' Jill', 2), (' Katherine', 2), (' Beau Biden', 2), (' Pearl Harbor', 1), (' Pfizer', 1), (' Scientific', 1), (' Tom Vilsack', 1)]
+
+i 15 nomi propri di luogo più frequenti di testo_biden.txt
+[(' American', 15), (' America', 10), (' United States', 6), (' Iraq', 5), (' Latino', 4), (' Defense', 3), (' Americans', 2), (' China', 2), (' United States Army', 2), (' Iowa', 1), (' Cleveland', 1), (' Deltas', 1), (' Afghanistan', 1), (' Taiwan', 1), (' US', 1)]
+
+i 15 nomi propri di persona più frequenti di testo_trump.txt
+[(' Biden', 5), (' Obama', 4), (' Wisconsin', 3), (' Look', 3), (' Space Force', 3), (' Kenosha', 2), (' Tomorrow', 2), (' Joe', 2), (' Nobody', 2), (' Hunter', 2), (' Trump', 2), (' Chuck Grassley', 2), (' Iowa', 2), (' Milwaukee', 1), (' North Carolina', 1)]
+
+i 15 nomi propri di luogo più frequenti di testo_trump.txt
+[(' Wisconsin', 5), (' Russia', 4), (' United States', 3), (' North Carolina', 3), (' China', 3), (' Schiff', 2), (' Washington', 2), (' Pennsylvania', 2), (' American', 2), (' Americans', 1), (' Detroit', 1), (' Atlanta', 1), (' Democrat', 1), (' Europe', 1), (' America', 1)]
